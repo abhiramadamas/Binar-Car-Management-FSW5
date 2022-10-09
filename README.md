@@ -8,8 +8,8 @@
 * Create : http://localhost:8000/add
 
 ## Route API
-* GET All : localhost:8000/cars/
-* GET by id : localhost:8000/cars/:id
-* POST : localhost:8000/cars
-* PUT : localhost:8000/cars/:id
-* DELETE : localhost:8000/cars/:id
+* GET All : http://localhost:8000/cars/
+* GET by id : http://localhost:8000/cars/:id
+* POST : http://localhost:8000/cars
+* PUT : http://localhost:8000/cars/:id
+* DELETE : http://localhost:8000/cars/:id
